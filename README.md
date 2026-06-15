@@ -1,8 +1,8 @@
 # Султанбай Бактыгул — Junior QA Engineer / Intern
 
 **Контакты:**  
-📧 bakytgul.sultanbai@gmail.com  
-💻 [GitHub](https://github.com/ваш-логин) (добавьте ссылку)  
+📧 bakytgulsultanbaj@gmail.com  
+💻 [GitHub](https://github.com/bakonyyaa) )  
 📄 [Резюме](#) — добавите позже
 
 ---
@@ -14,7 +14,7 @@
 - Анализ требований, составление чек-листов  
 - Написание тест-кейсов (позитивные и негативные сценарии)  
 - Оформление баг-репортов с четкими шагами воспроизведения  
-- Работа с Git, базовый SQL, Postman (REST API)
+- Работа с Git, базовый SQL,REST API
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 🍽️ Проект 1: Сайт ресторана «momsFood»
 
-**Ссылка на сайт:** [https://bakonyyaa.github.io/momsFood/](https://bakonyyaa.github.io/momsFood/)
+**Ссылка на сайт:** [momsFood — Traditional Kazakh Cuisine](https://bakonyyaa.github.io/momsFood/FrontProject1.html)
 
 **Что тестировалось:**  
 Функциональность интерфейса, навигация, адаптивность, форма регистрации.
@@ -34,28 +34,26 @@
 - Проверена адаптивность вёрстки (DevTools)
 
 **Артефакты (нажмите, чтобы открыть):**  
-- [📋 Тест-кейсы](test-cases/Test-case.pdf)  
-- [✅ Чек-лист регистрации](checklists/Регистрация%20Check%20list.pdf)  
-- [🐞 Баг-репорты](bug-reports/Bug%20Reports.pdf)
+- [📋 Тест-кейсы](Test%20cases%20for%20a%20restaurant%20website.pdf)  
+- [✅ Чек-лист регистрации](Регистрация%20Check%20list.pdf)  
+- [🐞 Баг-репорты](Bug%20Reports%20for%20a%20restaurant%20website.pdf)
 
 ---
 
 ### 📚 Проект 2: Сайт для изучения казахского языка
 
-**Ссылка на сайт:** [https://bakonyyaa.github.io/kazakh/](https://bakonyyaa.github.io/kazakh/)
-
+**Ссылка на сайт:** [Изучение казахского языка](https://bakonyyaa.github.io/kazakh/kazakhLangProject.html)
 **Что тестировалось:**  
 Адаптивность (мобильные устройства), навигация по разделам.
 
 **Артефакты:**  
-- (добавьте сюда свои файлы, если есть)  
-- [📱 Тест-кейс по адаптивности](kazakh-testcases.pdf)
+- [📱 Тест-кейс по адаптивности](test%20cases%20for%20website%20KazLang.pdf)
 
 ---
 
 ## Контакты
 
-- GitHub: [ваш профиль](https://github.com/ваш-логин)  
-- Email: bakytgul.sultanbai@gmail.com  
+- GitHub: [ваш профиль](https://github.com/bakonyyaa)  
+- Email: bakytgulsultanbaj@gmail.com  
 
 > *Портфолио пополняется по мере обучения.*

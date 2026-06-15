@@ -1,8 +1,8 @@
-**Султанбай Бактыгул — Junior QA Engineer / Intern**
+# Султанбай Бактыгул — Junior QA Engineer / Intern
 
 **Контакты:**  
 📧 bakytgulsultanbaj@gmail.com  
-💻 [GitHub](https://github.com/bakonyyaa) )  
+💻 [GitHub](https://github.com/bakonyyaa)  
 📄 [Резюме](#) — добавите позже
 
 ---
@@ -58,4 +58,4 @@
 - GitHub: [ваш профиль](https://github.com/bakonyyaa)  
 - Email: bakytgulsultanbaj@gmail.com  
 
-> *Портфолио пополняется по мере обучения.*
+

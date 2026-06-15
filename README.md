@@ -1,4 +1,4 @@
-# Султанбай Бактыгул — Junior QA Engineer / Intern
+**Султанбай Бактыгул — Junior QA Engineer / Intern**
 
 **Контакты:**  
 📧 bakytgulsultanbaj@gmail.com  
@@ -43,6 +43,8 @@
 ### 📚 Проект 2: Сайт для изучения казахского языка
 
 **Ссылка на сайт:** [Изучение казахского языка](https://bakonyyaa.github.io/kazakh/kazakhLangProject.html)
+
+
 **Что тестировалось:**  
 Адаптивность (мобильные устройства), навигация по разделам.
 
